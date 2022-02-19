@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+bin
+idea
+venv
+run.sublime-workspace
+__pycache__
